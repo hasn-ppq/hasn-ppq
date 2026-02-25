@@ -19,8 +19,14 @@ Experienced in REST APIs, authentication systems, database design, and Filament 
 ### Food Delivery System
 Multi-role backend system built with Laravel and Filament.
 
-### Task Management System
-CRUD Laravel application.
+### My Shop – E-commerce System
+Full E-commerce platform built with Laravel 12, Livewire, and Sanctum.
+Includes Admin Panel, REST API authentication, multi-merchant support, product management, and shopping cart system.
 
 ### School Management System
 Admin dashboard built with Laravel and Filament.
+
+### Task Management System
+CRUD Laravel application.
+
+
