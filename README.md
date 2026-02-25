@@ -20,8 +20,7 @@ Experienced in REST APIs, authentication systems, database design, and Filament 
 Multi-role backend system built with Laravel and Filament.
 
 ### My Shop – E-commerce System
-Full E-commerce platform built with Laravel 12, Livewire, and Sanctum.
-Includes Admin Panel, REST API authentication, multi-merchant support, product management, and shopping cart system.
+Laravel 12 E-commerce system with Admin Panel & REST API.
 
 ### School Management System
 Admin dashboard built with Laravel and Filament.
