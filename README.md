@@ -13,6 +13,8 @@ Experienced in REST APIs, authentication systems, database design, and Filament 
 - MySQL
 - Filament
 - Git & GitHub
+- Docker 
+- Livwire
 
 ## Projects
 
