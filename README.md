@@ -14,7 +14,7 @@ Experienced in REST APIs, authentication systems, database design, and Filament 
 - Filament
 - Git & GitHub
 - Docker 
-- Livwire
+- Livewire
 
 ## Projects
 
